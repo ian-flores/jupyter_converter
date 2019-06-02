@@ -1,0 +1,12 @@
+```{python}
+import numpy as np
+```
+
+This library we just loaded is numpy. 
+
+I love numpy.
+
+```{python}
+np.linspace(1, 50, 50)
+```
+
